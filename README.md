@@ -30,5 +30,5 @@ Or use a [docker image](https://github.com/klaemo/docker-couchdb).
 
 Or clone master from
 [https://github.com/apache/couchdb](https://github.com/apache/couchdb)
-and run ./dev/run to start the dev cluster or follow
+and run `./dev/run` to start the dev cluster or follow
 [couchdb-crazy](https://github.com/mar-ia/couchdb-crazy) to build a real one.
